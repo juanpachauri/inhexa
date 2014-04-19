@@ -1,0 +1,21 @@
+﻿/*juanpachauri.com / Diseño Web*/
+
+/* TEAM */
+	Creator: Juan Carloz Pachauri
+	Contact: juanpachauri [at] outlook.com
+	Twitter: @juanpachauri
+	From: Lima, Perú
+
+/* IN MEMORIAL */
+	Victoria
+
+/* THANKS */
+	Marybel
+	Gabriel
+
+/* SITE */
+	Last update: 2013/10/15
+	language: English
+	Standars: HTML5, CSS3, JavaScript
+	Components: jQuery
+	Software: SublimeText2, Adobe Suite CS6 (Flas, Photoshop, Fireworks)
